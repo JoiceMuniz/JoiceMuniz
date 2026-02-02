@@ -2,7 +2,11 @@
 
 **`Analista de Dados`**
 
-Me chamo Joice de Oliveira Muniz, tenho 32 anos, sou casada e  natural de Volta Redonda - RJ. Sou Técnica de Manutenção e Suporte de Informática pelo SENAC, também tenho formação em Ciência da Computação com uma especialização em Engenharia de Software. Sou curiosa, tanto que comecei na tecnologia por meio da minha curiosidade e facilidade de aprender rápido sozinha. Atualmente tenho aprimorado meus conhecimentos e também me aprofundado no mundo da IA.Possuo um canal do Youtube onde posto histórias da bíblia com IA "[JoiceMuniz0](https://www.youtube.com/@joicemuniz0)"
+Me chamo Joice de Oliveira Muniz, tenho 32 anos, sou casada e natural de Volta Redonda – RJ. Sou Técnica em Manutenção e Suporte de Informática pelo SENAC, graduada em Ciência da Computação e possuo especialização em Engenharia de Software.
+
+Sou movida pela curiosidade — foi justamente ela que me levou a ingressar na área de tecnologia, aliada à minha facilidade em aprender de forma autodidata. Atualmente, venho aprimorando meus conhecimentos e me aprofundando cada vez mais no universo da Inteligência Artificial.
+
+Além disso, possuo um canal no YouTube, onde publico histórias bíblicas produzidas com o apoio de IA. "[JoiceMuniz0](https://www.youtube.com/@joicemuniz0)"
 
 <p align="left">
     <a href="[https://www.youtube.com/@joicemuniz0">
