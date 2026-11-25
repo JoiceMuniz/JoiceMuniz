@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Joice Muniz 👋
 
-**`Analista de Dados`**
+**`Analista de Testes`**
 
 Me chamo Joice de Oliveira Muniz, tenho 32 anos, sou casada e natural de Volta Redonda – RJ. Sou Técnica em Manutenção e Suporte de Informática pelo SENAC, graduada em Ciência da Computação e possuo especialização em Engenharia de Software.
 
